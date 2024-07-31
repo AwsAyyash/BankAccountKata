@@ -1,7 +1,7 @@
 # BankAccountKata
 
 ## Overview
-BankAccountKata is a full-stack application consisting of a backend server with a RESTful API built using Express and TypeScript, a database, and a frontend developed with React, TypeScript, Fluent UI, and Vite. The project includes all bonus tasks and features robust search functionality.
+BankAccountKata is a full-stack application consisting of a backend server with a RESTful API built using Express and TypeScript, a database, and a frontend developed with React, TypeScript, Fluent UI, and Vite. The project includes all bonus tasks and features with robust search functionality.
 
 ## Features
 - **Backend**:
@@ -37,7 +37,7 @@ BankAccountKata is a full-stack application consisting of a backend server with 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/BankAccountKata.git
+    git clone https://github.com/AwsAyyash/BankAccountKata.git
     cd BankAccountKata
     ```
 
